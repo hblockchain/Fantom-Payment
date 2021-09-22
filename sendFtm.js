@@ -46,7 +46,7 @@ async function asyncCall() {
             { common: customCommon }
             );
         const privKey = Buffer.from(
-                '206f93b244cc707d21bfc64eb574aff75e2e41a22de7c06dc8ab8ab33dd1ec92',
+                'PRIVATE_KEY',
                 'hex',
             );
 
