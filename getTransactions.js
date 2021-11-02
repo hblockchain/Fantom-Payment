@@ -2,7 +2,7 @@ const Web3 = require('web3');
 
 
 
-//const ftmNetwork = 'https://rpc.testnet.fantom.network/';
+
 const ftmNetwork = 'https://xapi.testnet.fantom.network/lachesis';
 const myaccount = '0x543CC4A7049262167fD7128E9B954197B7B5ceDa';
 
